@@ -1,3 +1,5 @@
+<img src="vidos_brand_guide_logo.png" alt="Vidos Brand Guide" width="100%">
+
 # Vidos Brand Guidelines
 
 Brand guidelines and assets for Vidos.
